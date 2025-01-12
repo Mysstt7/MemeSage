@@ -1,7 +1,7 @@
 # MemeSage
 Ultimate AI-driven trading bot designed to revolutionize meme token trading on the Solana blockchain. This bot, you can also create and manage tokens on the Solana network. The bot is powered by GPT-4.0, providing real-time AI support for all your needs.
 
-## Features:
+## V2 Update Features:
 
 - **Automated Meme Tokens:**
 Creates Tokens automatically on the Solana blockchain, focused on meme tokens. Powered by AI to identify low-risk, high-reward opportunities in the meme coin market.
