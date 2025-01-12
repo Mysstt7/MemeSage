@@ -5,6 +5,7 @@ const net = require('net');
 
 module.exports.subscribe = (providers, callback) => {
     let currentBlock = [0, performance.now()]
+    let previousBlock = currentBlock
 
     providers.forEach(provider => {
         let providerName;
